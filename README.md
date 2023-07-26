@@ -9,8 +9,8 @@ Combined dataset of UTKFace and Fairface
 
 
 - Total datapoint (after cleaning)
-  -Male: 56262
-  -Female: 52193
+  - Male: 56262
+  - Female: 52193
 - Male class downsampled to to ensure balance
 - 30% data used for test set
 
