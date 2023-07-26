@@ -48,8 +48,9 @@
 
 
 ## Inference Results
+![Screenshot_7](https://github.com/Tarvirator/Real-time-Gender-and-Age-detection-from-Video-feed/assets/66062453/c349dbf9-1582-40b2-bba3-937d690a1d80)
 ![Screenshot_5](https://github.com/Tarvirator/Real-time-Gender-and-Age-detection-from-Video-feed/assets/66062453/20adc71b-88d9-43d0-a575-8412014f38b3)
 ![Screenshot_6](https://github.com/Tarvirator/Real-time-Gender-and-Age-detection-from-Video-feed/assets/66062453/4b84e4e1-9397-49b2-a4c8-1c0636436c22)
-![Screenshot_7](https://github.com/Tarvirator/Real-time-Gender-and-Age-detection-from-Video-feed/assets/66062453/c349dbf9-1582-40b2-bba3-937d690a1d80)
+
 
 
